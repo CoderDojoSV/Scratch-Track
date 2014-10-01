@@ -2,7 +2,7 @@
 
 
 
-Week 1 - Environment intro
+Week 1 - Scratch intro
 
 Week 2 - Frogger (doc still needed) http://scratch.mit.edu/projects/10795640/ and http://scratch.mit.edu/projects/10810325/
 
