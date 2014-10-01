@@ -2,7 +2,7 @@
 
 
 
-Week 1 - Scratch intro
+Week 1 - [Scratch Challenges](https://docs.google.com/document/d/1W54WjBeZ-eq6J0AhammGe68sz9OlpdCvFY5PxsfnS6w/)
 
 Week 2 - Frogger (doc still needed) http://scratch.mit.edu/projects/10795640/ and http://scratch.mit.edu/projects/10810325/
 
