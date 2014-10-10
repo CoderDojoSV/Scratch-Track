@@ -3,6 +3,7 @@
 
 
 Week 1 - [Scratch Challenges](https://docs.google.com/document/d/1W54WjBeZ-eq6J0AhammGe68sz9OlpdCvFY5PxsfnS6w/)
+        Part 2 - [Caving In](https://docs.google.com/document/d/1nU1tD0Y-ANVMEnU_ajJ0kAXq45cGMpipCUcv_06Yik0/)
 
 Week 2 - [Frogger](https://docs.google.com/document/d/1gZMwqGx0T73kvJkA57KQFdLMzsNpzO-5V8BC_ng9lBw/)
 
