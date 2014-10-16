@@ -1,4 +1,9 @@
 
+We are going to create some fun games in Scratch over the next 6 weeks! 
+
+Each week is dedicated to a project, with the instructions document below.
+
+In order to save your work, you must have a Scratch account. Please go to the [Scratch website](http://scratch.mit.edu) and sign in to your account. If you do not have an account, please create one with the help of your parent.
 
 
 
