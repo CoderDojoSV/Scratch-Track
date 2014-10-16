@@ -6,6 +6,7 @@ Each week is dedicated to a project, with the instructions document below.
 In order to save your work, you must have a Scratch account. Please go to the [Scratch website](http://scratch.mit.edu) and sign in to your account. If you do not have an account, please create one with the help of your parent.
 
 
+#Projects
 
 Week 1 - [Scratch Challenges](https://docs.google.com/document/d/1W54WjBeZ-eq6J0AhammGe68sz9OlpdCvFY5PxsfnS6w/)        followed by [Caving In](https://docs.google.com/document/d/1nU1tD0Y-ANVMEnU_ajJ0kAXq45cGMpipCUcv_06Yik0/)
 
