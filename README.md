@@ -20,3 +20,4 @@ Week 3 - [Obstacle Dodge](https://docs.google.com/document/d/1tla_5946PSpBKTzGlc
 
 Week 4 - [Space Invaders](https://docs.google.com/document/d/1GirMhyP70aVn3r4WkD5H2G-Z3cniaGki4hbbVh9E88Q/)
 
+> Between sessions: [Fish Chomp](http://scratch.mit.edu/projects/10859244) use the starter project and create a fun game out of it. What features can you add to make the game challenging? How can scoring and levels work? Should there be a way to lose or end the game?
