@@ -21,3 +21,7 @@ Week 3 - [Obstacle Dodge](https://docs.google.com/document/d/1tla_5946PSpBKTzGlc
 Week 4 - [Space Invaders](https://docs.google.com/document/d/1GirMhyP70aVn3r4WkD5H2G-Z3cniaGki4hbbVh9E88Q/)
 
 > Between sessions: [Fish Chomp](http://scratch.mit.edu/projects/10859244) - use the starter project and create a fun game out of it. What features can you add to make the game challenging? How can scoring and levels work? Should there be a way to lose or end the game?
+
+Week 5 - [Dice game before the session](https://docs.google.com/document/d/1cZdbwNOEekx2BZ5N8m27tcJdNpJz-i2Q68VpWdPTcyw/edit?usp=sharing) and [Probability Battle](https://docs.google.com/document/d/1bmYqdQFj8qxpT6cWHrUcwcYnJhkn4uVGlrvRYtXNjbU/edit?usp=sharing)
+
+
