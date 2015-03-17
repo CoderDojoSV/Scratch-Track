@@ -1,12 +1,4 @@
-
-We are going to create some fun games in Scratch over the next 6 weeks! 
-
-Each week is dedicated to a project, with the instructions document below.
-
-In order to save your work, you must have a Scratch account. Please go to the [Scratch website](http://scratch.mit.edu) and sign in to your account. If you do not have an account, please create one with the help of your parent.
-
-
-#Projects - Winter 2015
+#Projects - Winter 2015 - Prepared by Shreesha Ramdas
 
 Week 1 - [Concepts](https://docs.google.com/document/d/11GaT77rEVezKdbygbxrLFVd30jD9kzUh3ApexopTzC0/edit)        followed by [Coin Maze Game](https://docs.google.com/document/d/1tB-y1ccD3urPXIOdYTDnB6sZWhb95v8mcoiOtvLfsUg/edit)
 
